@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://diyetisyen2.medya333.com/sitemap.xml
